@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0">
+
+<Document>
+ <name>wikilink2.kml</name>
+ <Style id="khStyle542">
+   <LineStyle id="khLineStyle545">
+   </LineStyle>
+   <PolyStyle id="khPolyStyle544">
+   </PolyStyle>
+   <IconStyle id="khIconStyle546">
+     <Icon>
+       <href>root://icons/palette-5.png</href>
+       <x>192</x>
+       <y>128</y>
+       <w>32</w>
+       <h>32</h>
+     </Icon>
+   </IconStyle>
+   <LabelStyle id="khLabelStyle548">
+   </LabelStyle>
+ </Style>
+ <Placemark>
+  <name>Coppermine_River</name>  <LookAt>  <longitude>-115.084722</longitude>  <latitude>67.811944</latitude>       <range>3200</range>       <tilt>4.96e-011</tilt>       <heading>1.05</heading>     </LookAt>     <styleUrl>#khStyle542</styleUrl>    <Point>  <coordinates>-115.084722,67.811944,0</coordinates> </Point>  </Placemark> </Document> </kml>
